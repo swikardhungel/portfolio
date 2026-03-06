@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Django REST Bookstore API",
+        "description": "A full-featured RESTful API for an online bookstore built with Django REST Framework. Includes JWT authentication, search, filtering, pagination, and automated test coverage.",
+        "technologies": [
+            "Python",
+            "Django",
+            "DRF",
+            "PostgreSQL",
+            "JWT"
+        ],
+        "image": "",
+        "github": "https://github.com/"
+    },
+    {
+        "id": 2,
+        "title": "Stellar Data Pipeline",
+        "description": "An automated data pipeline that fetches astronomical datasets, cleans and transforms them with Pandas, and generates publication-ready visualisations using Matplotlib and Seaborn.",
+        "technologies": [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "Matplotlib",
+            "Seaborn",
+            "Astropy"
+        ],
+        "image": "",
+        "github": "https://github.com/"
+    },
+    {
+        "id": 3,
+        "title": "Student Portal System",
+        "description": "A Django-based student management portal with role-based access, attendance tracking, grade management, and a responsive dashboard for administrators and students.",
+        "technologies": [
+            "Python",
+            "Django",
+            "SQLite",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "image": "",
+        "github": "https://github.com/"
+    },
+    {
+        "id": 4,
+        "title": "[TEMPLATE] Project Title Here",
+        "description": "Replace this description with your project details.",
+        "technologies": [
+            "Tech 1",
+            "Tech 2"
+        ],
+        "image": "",
+        "github": "https://github.com/yourusername/project"
+    },
+    {
+        "id": 5,
+        "title": "[TEMPLATE] Another Project",
+        "description": "Replace this description with your project details.",
+        "technologies": [
+            "Tech 1",
+            "Tech 2"
+        ],
+        "image": "",
+        "github": "https://github.com/yourusername/project"
+    }
+]
