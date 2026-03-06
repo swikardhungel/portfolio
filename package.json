@@ -7,7 +7,7 @@
     "start": "node server.js",
     "dev": "node --watch server.js",
     "backend": "node server.js",
-    "frontend": "npx -y http-server public -p 3000 -c-1"
+    "frontend": "npx -y http-server . -p 3000 -c-1"
   },
   "author": "Swikar Dhungel",
   "license": "MIT",
